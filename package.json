@@ -5,6 +5,7 @@
   "author": "Akihiko Kusanagi <nagi@nagi-p.com> (https://nagix.github.io/)",
   "version": "3.1.0",
   "license": "MIT",
+  "prepare": "npm run build",
   "jsdelivr": "dist/chartjs-plugin-streaming.min.js",
   "unpkg": "dist/chartjs-plugin-streaming.min.js",
   "main": "dist/chartjs-plugin-streaming.js",
