@@ -1,5 +1,5 @@
 {
-  "name": "@robloche/chartjs-plugin-streaming",
+  "name": "@ambiqai/chartjs-plugin-streaming",
   "homepage": "https://github.com/Robloche/chartjs-plugin-streaming",
   "description": "Chart.js plugin for live streaming data",
   "author": "Akihiko Kusanagi <nagi@nagi-p.com> (https://nagix.github.io/)",
